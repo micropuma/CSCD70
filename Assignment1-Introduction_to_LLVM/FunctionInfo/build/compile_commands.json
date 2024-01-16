@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/build/lib",
+  "command": "/usr/bin/c++ -DFunctionInfo_EXPORTS   -isystem  -Wall -Wextra -Werror -fPIC -o CMakeFiles/FunctionInfo.dir/FunctionInfo.cpp.o -c /mnt/lib/FunctionInfo.cpp",
+  "file": "/mnt/lib/FunctionInfo.cpp",
+  "output": "lib/CMakeFiles/FunctionInfo.dir/FunctionInfo.cpp.o"
+}
+]
